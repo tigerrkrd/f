@@ -1,0 +1,1 @@
+query_id=AAGACtdoAgAAAIAK12iCgmCF&user=%7B%22id%22%3A6053890688%2C%22first_name%22%3A%22%F0%9D%92%9C%20%3A%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22al4nd_uk%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718012141&hash=7df7e9699e1eb988afa2e0549b5c13a6879f7ec52cf975a33c496dd1397c4a41
